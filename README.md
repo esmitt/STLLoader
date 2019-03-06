@@ -1,3 +1,6 @@
 # STL Loader in C#
 
-A single STL loader using C#. There is no graphic visualization yet (next step). Is only to test the loading process of the geometry. Is using Visual Studio 2017 Community.
+A single loader of STL files (stereolithography) using C#. Files are in ASCII format. 
+This code is only to test the loading process of the geometry, using Visual Studio 2017 Community.
+
+###### If you want to contribute to this project and make it better, your help is very welcome.
